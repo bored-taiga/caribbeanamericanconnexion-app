@@ -1,0 +1,6 @@
+package com.uxper.caribbeanamericanconnexion
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
